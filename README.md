@@ -3,7 +3,7 @@
 
 <h3>TUGAS: Unduh Citra Landsat 8, Unduh Citra Landsat 8, lalu klasifikasi tiap kelas pada citra menggunakan QGIS.</h3>
 <strong>
-  Link:</br>
+  Link Youtube:</br>
   https://youtu.be/Ov3H7UPEW7A
   
 </strong>
